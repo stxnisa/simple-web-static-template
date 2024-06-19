@@ -1,0 +1,1 @@
+# simple-web-static-template
